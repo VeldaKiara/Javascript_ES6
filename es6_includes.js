@@ -4,4 +4,5 @@ console.log(numArray.indexOf(0))
 // the code above returns -1 because 0 does not exist
 
 
-console.log(numArray.indexOf(2))
+console.log(numArray.includes(2))
+//includes returns boolean values 
